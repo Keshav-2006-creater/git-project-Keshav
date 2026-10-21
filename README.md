@@ -4,3 +4,6 @@ Keshav
  - Communication
  - Problem solving
  - Basic Git
+ ## Projects
+ -Bug Fixer: reads code bug reports, reproduces errors and suggests automatic code patches.
+ -Travel planner: coordinates flights,hotel bookings,local activities and weather updates using specialized AI agents.
